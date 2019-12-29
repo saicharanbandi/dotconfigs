@@ -1,5 +1,9 @@
-~/ArchUtils/*
-~/.cache/*
-~/.local/*
-~/.mozilla/*
-~/.emacs.d/backup/*
+Arch_Utils/*
+.cache/*
+.local/*
+.mozilla/*
+.emacs.d/backup/
+.emacs.d/recentf
+.emacs.d/desktop
+.emacs.d/saveplace
+.emacs.d/persistent-items
