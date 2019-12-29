@@ -1,0 +1,5 @@
+~/ArchUtils/*
+~/.cache/*
+~/.local/*
+~/.mozilla/*
+~/.emacs.d/backup/*
