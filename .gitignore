@@ -6,4 +6,9 @@ Arch_Utils/*
 .emacs.d/recentf
 .emacs.d/desktop
 .emacs.d/saveplace
-.emacs.d/persistent-items
+.emacs.d/prescient-items
+.gitconfig
+Arch_Clean/
+Arch_Clean2/
+.config/pulse/
+.config/mpd/
